@@ -1,0 +1,112 @@
+# Blender 4.2.2 LTS MTL File: 'planets.blend'
+# www.blender.org
+
+newmtl Earth
+Ns 224.999985
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Textures/Erath/2k_earth_with_clouds.jpg
+
+newmtl Jupiter
+Ns 224.999985
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Textures/Jupiter/2k_jupiter.jpg
+
+newmtl Mars
+Ns 224.999985
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Textures/Mars/2k_mars.jpg
+
+newmtl Mercury
+Ns 224.999985
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Textures/Mercury/2k_mercury.jpg
+map_Ks Textures/Mercury/2k_mercury.jpg
+
+newmtl Moon
+Ns 224.999985
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Textures/Moon/2k_moon.jpg
+
+newmtl Neptun
+Ns 224.999985
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Textures/Neptune/2k_neptune.jpg
+
+newmtl Saturn
+Ns 224.999985
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Textures/Saturn/2k_saturn.jpg
+
+newmtl Saturn's_ring
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Textures/Saturn/2k_saturn_ring_alpha.png
+
+newmtl Sun
+Ns 224.999985
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Textures/Sun/2k_sun.jpg
+map_Ke Textures/Sun/2k_sun.jpg
+
+newmtl Uranus
+Ns 224.999985
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Textures/Uranus/2k_uranus.jpg
+
+newmtl Venus
+Ns 224.999985
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Textures/Venus/2k_venus_surface.jpg
